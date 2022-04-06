@@ -1,0 +1,76 @@
+ 1. Sprint 1. Instal·lació i introducció a Python
+
+Durada : 7 dies 
+
+Objectiu general: 
+
+L'objectiu d'aquest sprint és conèixer, familiaritzar-nos i instal·lar el nostre entorn de treball al llarg de l'Itinerari Data Science amb Python.
+
+    Jupyter Notebook (Anaconda)
+    Markdown
+    Github
+    Conèixer i entendre els fonaments bàsics del Python
+
+ 
+
+Objectius específics:
+
+    Interpretar i aplicar les seves funcions principals 
+    Utilitzar correctament eines complementàries (Jupyter Notebook) 
+    Crear variables 
+    Realitzar tècniques amb String
+
+Si algun recurs de towardsdatascience o medium demana registre, proveu d’obrir-lo en finestra d’incògnit.
+1. Instal·lació de l'entorn
+
+Seguidament, en aquest primer capítol es descriu com cal fer la instal·lació de l'entorn de treball. Hi ha diferents IDEs (Integrated Development Environment) disponibles per programar Python: Jupyter Notebook, Pycharm, etc. En aquest itinerari farem servir Jupyter Notebook, però si estàs acostumat a fer servir un altre IDE no hi ha problema que l'utilitzis.
+
+Si ets més avançat, a Jupyter Notebook es poden instal·lar extensions. A la darrera tasca d'aquest sprint se't demana instal·lar Nbextensions. Potser la funcionalitat més utilitzada d'Nbextensions és exectime que permet veure el temps d'execució d'una comanda.
+
+Es recomana comentar el codi durant tot l'itinerari i que sigui preferentment en anglès, per tal de que arribi al major nombre de persones possibles (afavorir la internacionalització).
+
+    Instal·lació de l’entorn
+
+Seguir el tutorial segons el SO, descarregant per la versió de Python 3 més actual. Treballarem en Jupyter Notebook. En aquest punt instal·laràs una plataforma que conté molts programes (entre ells Jupyter), i ja conté la majoria de paquets que necessitaràs al llarg d’aquest curs. Els primers passos són familiaritzar-te amb aquest entorn i les seves funcionalitats.
+
+    Introducció a l’entorn de programació
+
+Familiaritzar-se amb l’entorn Jupyter Notebook.
+
+    Jupyter Notebook i Markdown CheatSheet
+
+Descàrrega: Full de trucs per Jupyter Notebook i Markdown.
+
+Trobareu els documents penjats en la carpeta.
+
+2. Github
+
+En aquest capítol es descriu com utilitzar Github. 
+
+Github és un repositori web per compartir codi (de manera privada o pública) i que utilitzarem en aquest itinerari per entregar les taques. És a dir, per entregar les tasques haureu d'entregar un arxiu txt amb l'enllaç al vostre Github. 
+
+Pels que aneu més avançats, recordar que també hi ha una versió Github Desktop que us pot facilitar la feina per pujar el codi al repositori.
+
+
+    Tutorial web: Introducció Github
+
+Aprèn a manejar github per poder lliurar els exercicis !!
+
+3. Introducció a Python
+
+En aquest capítol trobaràs els conceptes bàsics de Python. Si vols tenir unes bones bases, et recomano que llegeixis els recursos. Els primers exercicis són senzills però poc a poc l'itinerari es va tornant més interessant i es fan llibreries més avançade
+
+Introducció a Python
+
+Introducció a Python (complementària)
+
+    Conceptes teòrics bàsics 
+
+Conceptes fonamentals de Python
+
+    Introdueix conceptes dels mòduls posteriors.
+
+Python Basics CheatSheets i Tutorial
+
+    Descàrrega de diferents "fulles de trucs" i tutorial per Python
+    Trobaràs l'arxiu en la carpeta per descarregar-lo.
